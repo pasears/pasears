@@ -2,4 +2,4 @@
 
 📊 Data Scientist | Data Analyst 📊
 
-I’m a Data Scientist (M.S.) and Business Analytics (M.S.) graduate with advanced data analysis, machine learning, and predictive modeling skills. Passionate about turning raw data into actionable insights, I use Python, R, SQL, and visualization tools to tackle complex data challenges effectively.
+I'm a data analyst/data scientist holding dual master’s degrees in business analytics and data science with skills in Python, R, SQL, and data visualization. I am committed to using data-driven approaches to enhance business performance and foster organizational growth.
